@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Ant Design Customization in react-scripts
+
+This repository demonstrates how to customize the Ant Design theme in react-scripts - easily and without ejecting.
+
+The approach used here is to setup a less file that will compile the original Ant Design less plus your customization to a new CSS file.
+
+Please read my blog article for details: https://www.stefanwille.com
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

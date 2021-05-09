@@ -5,7 +5,7 @@ function App() {
   return (
     <Space style={{ margin: 50 }}>
       <Button type="primary">Button</Button>
-      <Button>Confirm</Button>
+      <Button>Another Button</Button>
     </Space>
   );
 }
