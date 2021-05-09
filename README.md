@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 ### `yarn less`
 
-Compiles a Ant Design styles with your customizations to CSS.
+Compiles Ant Design styles with customizations to CSS.
 
 ### `yarn start`
 
