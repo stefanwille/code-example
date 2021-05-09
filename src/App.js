@@ -1,4 +1,4 @@
-import "antd/dist/antd.css"; // or 'antd/dist/antd.less'
+import "./antd-theme/antd-customized.css";
 import { Button, Space } from "antd";
 
 function App() {
