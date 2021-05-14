@@ -4,7 +4,7 @@ This repository demonstrates how to customize the Ant Design theme in react-scri
 
 The approach used here is to setup a less file that will compile the original Ant Design less plus your customization to a new CSS file.
 
-Please read my blog article for details: http://localhost:3000/2021/05/2021-05-09-react-scripts-ant-design-customization
+Please read my blog article for details: https://www.stefanwille.com/2021/05/2021-05-09-react-scripts-ant-design-customization
 
 ---
 
